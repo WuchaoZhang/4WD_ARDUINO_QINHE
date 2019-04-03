@@ -1,0 +1,197 @@
+Board Information Report
+Filename     : E:\project\github\4WD_ARDUINO_QINHE2\4WD_ARDUINO_PCB_QINHE\4WD_V1.0.PcbDoc
+Date         : 2019/4/3
+Time         : 19:50:41
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 85mmx85mm
+    Components on board, 48
+count : 2
+
+Routing Information
+    Routing completion, 99.21%
+    Connections, 126
+    Connections routed, 125
+    Connections remaining, 1
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 47, 0, 413, 0, 0, 0, 0
+    Bottom Layer, 0, 0, 0, 187, 0, 0, 0, 0
+    Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 0
+    Mechanical 13, 0, 0, 0, 9, 0, 0, 0, 120
+    Mechanical 15, 16, 0, 0, 40, 0, 0, 0, 0
+    Multi-Layer, 0, 132, 0, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 16, 0, 0, 621, 135, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 4, 0, 0, 25, 0, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 4, 0, 0, 4, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 15
+
+Drill Pairs, Vias
+count : 0
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mm, 47, 0
+    0.889mm, 31, 0
+    0.9mm, 75, 0
+    0.9144mm, 22, 0
+    3.175mm, 4, 0
+count : 5
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    0.6604mm, 22
+    0.6858mm, 31
+    0.7mm, 14
+    0.8mm, 59
+    0.9mm, 2
+    1.905mm, 4
+count : 6
+
+Mid Layer Annular Ring Size, Count
+    0.6604mm, 22
+    0.6858mm, 31
+    0.7mm, 14
+    0.8mm, 59
+    0.9mm, 2
+    1.905mm, 4
+count : 6
+
+Bottom Layer Annular Ring Size, Count
+    0.6604mm, 22
+    0.6858mm, 31
+    0.7mm, 14
+    0.8mm, 59
+    0.9mm, 2
+    1.905mm, 4
+count : 6
+
+Pad Solder Mask, Count
+    0.1016mm, 179
+count : 1
+
+Pad Paste Mask, Count
+    0mm, 179
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    0.508mm, 179
+count : 1
+
+Pad Relief Conductor Width, Count
+    0.254mm, 179
+count : 1
+
+Pad Relief Air Gap, Count
+    0.254mm, 179
+count : 1
+
+Pad Relief Entries, Count
+    4, 179
+count : 1
+
+Via Solder Mask, Count
+count : 0
+
+Track Width, Count
+    0.0127mm, 4
+    0.0254mm, 22
+    0.05mm, 10
+    0.1mm, 8
+    0.15mm, 9
+    0.1524mm, 9
+    0.2mm, 84
+    0.2032mm, 105
+    0.254mm, 448
+    0.3mm, 30
+    0.33mm, 9
+    0.35mm, 134
+    0.4mm, 53
+    0.5mm, 179
+    0.55mm, 9
+    0.6mm, 27
+    0.65mm, 18
+    0.8mm, 20
+    1mm, 116
+    1.2mm, 5
+count : 20
+
+Arc Line Width, Count
+    0.0127mm, 4
+    0.0254mm, 11
+    0.05mm, 5
+    0.2mm, 2
+    0.25mm, 1
+    0.254mm, 15
+    0.3048mm, 1
+    0.5mm, 1
+count : 8
+
+Arc Radius, Count
+    0.125mm, 1
+    0.127mm, 12
+    0.1524mm, 1
+    0.2mm, 1
+    0.35mm, 5
+    0.3554mm, 1
+    0.508mm, 3
+    0.762mm, 4
+    1mm, 1
+    2mm, 4
+    2.9621mm, 2
+    3.048mm, 2
+    3.15mm, 2
+    4.6mm, 1
+count : 14
+
+Arc Degrees, Count
+    90, 11
+    118, 2
+    180, 3
+    348, 1
+    360, 23
+count : 5
+
+Text Height, Count
+    1.016mm, 4
+    1.2mm, 20
+    1.3mm, 12
+    1.4mm, 2
+    1.524mm, 76
+    1.8mm, 2
+    2.6mm, 19
+count : 7
+
+Text Width, Count
+    0.2032mm, 4
+    0.254mm, 131
+count : 2
+
+Net Track Width, Count
+    0.254mm, 40
+count : 1
+
+Net Via Size, Count
+    1.27mm, 40
+count : 1

@@ -123,6 +123,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YKTPSDGF
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for 4WD_ARDUINO_PCB_QINHE\Board Information - 4WD_V1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
